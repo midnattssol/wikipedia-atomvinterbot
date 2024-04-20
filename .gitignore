@@ -1,0 +1,9 @@
+user-config.py
+user-password.py
+.project-metadata
+logs
+apicache
+*.lwp
+*.ctrl
+log-actions.jsonl
+__pycache__
