@@ -4,8 +4,13 @@ AtomvinterBot is a CLI-based semiautomatic bot for Swedish Wikipedia using the [
 
 ![Example of the CLI running](/images/demo_screenshot.png)
 
+## Todo
+
+- Queue future edits in unfrequented articles so the cooldown period isn't necessary
+
 ## Sources
 
-- [Pywikibot BotPasswords manual — Mediawiki](https://www.mediawiki.org/wiki/Manual:Pywikibot/BotPasswords)
+- [Pywikibot BotPasswords manual — MediaWiki](https://www.mediawiki.org/wiki/Manual:Pywikibot/BotPasswords)
 - [Wikipedia:Robotar — Swedish Wikipedia](https://sv.wikipedia.org/wiki/Wikipedia:Robotar)
 - [Användare:AtomvinterBot — Swedish Wikipedia](https://sv.wikipedia.org/wiki/Användare:AtomvinterBot)
+- [PetScan — MediaWiki](https://meta.wikimedia.org/wiki/PetScan/en)

@@ -7,3 +7,4 @@ apicache
 *.ctrl
 log-actions.jsonl
 __pycache__
+ignore
